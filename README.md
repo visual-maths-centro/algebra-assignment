@@ -12,6 +12,6 @@ Cada una de estas secciones tiene ejercicios:
 
 En caso de tener alguna duda, no olvides enviar un correo.
 
-## Álgebra
+## Algebra
 
 ## Rangos
