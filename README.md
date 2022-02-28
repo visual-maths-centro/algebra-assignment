@@ -20,8 +20,7 @@ En caso de tener alguna duda, no olvides enviar un correo.
   * <img src="http://latex.codecogs.com/gif.latex?2(2x - 3) = 6 + x"/>
   * <img src="http://latex.codecogs.com/gif.latex?\frac{x - 1}{6} + \frac{x - 3}{2} = -1"/>
   * <img src="http://latex.codecogs.com/gif.latex?2(x + 1) - 3(x - 2) = x + 6"/>
-2. Haz un sketch donde se despliegue el video _video.mp4_ en un contenedor rectangular. Se puede elegir entre rellenar todo el contenedor, o hacer que se ajuste al contenedor. El contenedor puede cambiar su posición y su tamaño.
-3. Cómo sería una función en Processing que en base a la relación de aspecto de una pantalla devuelva `true` si esta en "portrait", y `false` si esta en "landscape".
+2. `js`. En base en este [sketch](https://codesandbox.io/s/aspect-ratio-mo8kqy?file=/sketch.js) donde se despliegue el video _video.mp4_ en un contenedor rectangular. Se puede elegir entre rellenar todo el contenedor, o hacer que se ajuste al contenedor. El contenedor puede cambiar su posición y su tamaño.
 
 ## Normalización
 
