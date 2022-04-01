@@ -40,7 +40,7 @@ Todas las respuestas de estas preguntas deben ir en una carpeta llamada `lerp`.
   * `t = 0.25`, `rango = [100, 250]`
   * `t = 0.6`, `rango = [-100, 40]`
   * `t = 0.01`, `rango = [0, 104]`
-2. En el sketch `lerp/MyLerpColor/MyLerpColor.pde` implementa la función `myLerpColor`. Esta función interpola dos colores y regresa un color que es la mezcla de ellos bajo cierta proporción. (Ver [`lerpColor`](https://p5js.org/reference/#/p5/lerpColor)). Para probar tu función, crea dos gradientes verticales de colores.
+2. Basándote en el [sketch](https://codesandbox.io/s/mylerpcolor-ge4q4p?file=/sketch.js) implementa la función `myLerpColor`. Esta función interpola dos colores y regresa un color que es la mezcla de ellos bajo cierta proporción. (Ver [`lerpColor`](https://p5js.org/reference/#/p5/lerpColor)). Para probar tu función, crea dos gradientes verticales de colores.
 
 <img src="gradient.png" width="250">
 
