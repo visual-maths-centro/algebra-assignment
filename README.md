@@ -56,9 +56,9 @@ Todas las respuestas de estas preguntas deben ir en una carpeta llamada `map`.
   * `x = 212` del rango: `[20, 850]`, al rango: `[-10, -3]`.
 2. En el [sketch](https://codesandbox.io/s/pointonpath-69l633) hay 5 puntos con sus coordenadas x, y. Estos puntos definen un camino. Usa un número `t` para controlar la posición de un marcador negro sobre el camino.
 
-    Cuando `t` es `0.0`, el marcador negro esta sobre el primer punto.
-    Cuando `t` es `0.25`, el marcador negro esta a un cuarto del camino.
-    Cuando `t` es `1.0`, el marcador negro esta en el ultimo punto.
+  * Cuando `t` es `0.0`, el marcador negro esta sobre el primer punto.
+  * Cuando `t` es `0.25`, el marcador negro esta a un cuarto del camino.
+  * Cuando `t` es `1.0`, el marcador negro esta en el ultimo punto.
 
 <img src="path.gif" width="350">
 
