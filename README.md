@@ -40,7 +40,7 @@ En caso de tener alguna duda, no olvides enviar un correo.
 
 <img src="gradient.png" width="250">
 
-3. `js`. En el sketch `lerp/DottedLine/DottedLine.pde` implementa la función `dottedLine`. La función debe dibujar una linea punteada entre dos extremos, la separación entre cada punto esta indicado por un porcentaje.
+3. `js`. En base a este [sketch](https://codesandbox.io/s/dottedline-ygs1b5?file=/sketch.js) implementa la función `dottedLine`. La función debe dibujar una linea punteada entre dos extremos, la separación entre cada punto esta indicado por un porcentaje.
 
 ## Mapeo
 
